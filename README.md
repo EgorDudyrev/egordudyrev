@@ -34,7 +34,7 @@ To do so I'm developing [FCApy](https://github.com/EgorDudyrev/FCApy) python pac
 ### Education
 - (Almost) 1st year PhD student at [HSE University](https://www.hse.ru/en/)
 - (Almost) Msc. in applied mathematics (Data Science) at [HSE University](https://www.hse.ru/en/)
-- Bsc. in applied mathematics (Software Engineering) at [Bauman University)(https://bmstu.ru/en/)
+- Bsc. in applied mathematics (Software Engineering) at [Bauman University](https://bmstu.ru/en/)
 
 
 ### GitHub stats
