@@ -3,7 +3,7 @@
 
 I have worked in data science for 3 years: played a lot with gradient boostings, SHAP, made models understandable for business.
 
-Now I strive to create a new ML model: as accurate as gradient boostings, as interpretable as small decision trees and applicable to as many types of data as neural networks.
+Now I strive to create a new ML model: as accurate as gradient boostings, as interpretable as small decision trees, and applicable to as many types of data as neural networks.
 
 To do so I'm developing [FCApy](https://github.com/EgorDudyrev/FCApy) python package based on the ideas from Formal Concept Analysis theory.
 
@@ -29,12 +29,12 @@ To do so I'm developing [FCApy](https://github.com/EgorDudyrev/FCApy) python pac
 </p>
 
 ### Work experience
-- I'm working as a part-time intern-researcher at [ISSA](https://cs.hse.ru/en/ai/issa/) lab at [HSE University](https://www.hse.ru/en/) in Moscow
-- I've worked as a data scientist for 2.5 years in DWH department of [Sportmaster](https://sportmastercorp.com/)
-- I've worked as an intern data scientist for 0.5 years in Treasury deparment of [Sberbank](https://www.sberbank.com/index)
+- Intern-researcher since April 2021 at [ISSA](https://cs.hse.ru/en/ai/issa/) lab at [HSE University](https://www.hse.ru/en/), Moscow
+- Data scientist for 2.5 years at DWH department of [Sportmaster](https://sportmastercorp.com/)
+- Intern data scientist for 0.5 years at Treasury department of [Sberbank](https://www.sberbank.com/index)
 
 ### Education
-- (Almost) 1st year PhD student at [HSE University](https://www.hse.ru/en/)
+- 1st year PhD student at [HSE University](https://www.hse.ru/en/), Moscow
 - Msc. in applied mathematics (Data Science) at [HSE University](https://www.hse.ru/en/)
 - Bsc. in applied mathematics (Software Engineering) at [Bauman University](https://bmstu.ru/en/)
 
