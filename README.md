@@ -5,7 +5,9 @@ I have worked in data science for 3 years: played a lot with gradient boostings,
 
 Now I strive to create a new ML model: as accurate as gradient boostings, as interpretable as small decision trees, and applicable to as many types of data as neural networks.
 
-To do so I'm developing [FCApy](https://github.com/EgorDudyrev/FCApy) python package based on the ideas from Formal Concept Analysis theory.
+To do so I'm developing:
+1.  [FCApy](https://github.com/EgorDudyrev/FCApy) python package to implement Formal Concept Analysis techniques (at spare time)
+2. A mathematical framework to describe the rule/decision based models in Formal Concept Analysis terms (at PhD study)
 
 ### Languages and tools
 
