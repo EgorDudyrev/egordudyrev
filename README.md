@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/EgorDudyrev/egordudyrev/blob/main/header.png?raw=true)
 
-I have worked in data science for 3 years: played a lot with gradient boostings, SHAP, made models understandable for business.
+I have worked in data science for 3 years (until 2021): played a lot with gradient boostings, SHAP, made models understandable for business.
 
 Now I strive to create a new ML model: as accurate as gradient boostings, as interpretable as small decision trees, and applicable to as many types of data as neural networks.
 
