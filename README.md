@@ -3,8 +3,8 @@
 ## Résumé
 
 My positions:
-* 2nd year PhD student in [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France),
-* 3rd year PhD student in [HSE University](https://www.hse.ru/) (Moscow, Russia),
+* 3rd year PhD student in [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France),
+* 4th year PhD student in [HSE University](https://www.hse.ru/) (Moscow, Russia),
 * full-time Doctorant in [LORIA](https://www.loria.fr/) research laboratory (Nancy), and
 * part-time seminar teacher of Data Mining course at [IDMC](https://idmc.univ-lorraine.fr) (Nancy, France).
 
