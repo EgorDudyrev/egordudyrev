@@ -3,24 +3,24 @@
 ## Résumé
 
 My positions:
-* 3rd year PhD student in [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France),
-* 4th year PhD student in [HSE University](https://www.hse.ru/) (Moscow, Russia),
-* full-time Doctorant in [LORIA](https://www.loria.fr/) research laboratory (Nancy), and
-* part-time seminar teacher of Data Mining course at [IDMC](https://idmc.univ-lorraine.fr) (Nancy, France).
+* ATER (teacher assistant) in [TÉLÉCOM Nancy](https://telecomnancy.univ-lorraine.fr) (Nancy, France)
+* 4th year PhD student in [Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France),
+* Doctoral Student in [LORIA](https://www.loria.fr/) research laboratory (Nancy) under [SmartFCA](https://www.smartfca.org) ANR project.
 
 My research interests lie in merging the theory of Formal Concept Analysis (FCA) with the practice of Explainable Artificial Intelligence (XAI).
 
 ## Projects
 
 Currently, I develop three GitHub repository:
-1. [`Caspailleur`](https://github.com/EgorDudyrev/caspailleur): Minimalistic, function-based package to run binary FCA operations in Python;
-2. [`Paspailleur`](https://github.com/EgorDudyrev/paspailleur): Class-based package to adopt Caspailleur to complex data via Pattern Structures;
+1. [`Caspailleur`](https://github.com/smartFCA/caspailleur): Minimalistic, function-based package to run binary FCA operations in Python;
+2. [`Paspailleur`](https://github.com/smartFCA/paspailleur): Class-based package to adopt Caspailleur to complex data via Pattern Structures;
 3. [`Expailleur`](https://github.com/EgorDudyrev/expailleur): Repository with Colab tutorials for Caspailleur and Paspailleur.
 
 All above mentioned repositories will be merged into the backend code for [SmartFCA](https://www.smartfca.org) project by [ANR](https://anr.fr).
 
 
-And I still maintain my old project for running FCA with Python: [`FCApy`](https://github.com/EgorDudyrev/fcapy).
+In the beginning of 2020s I did FCApy Python package: [`FCApy`](https://github.com/EgorDudyrev/fcapy).
+I do not really maintain it anymore.
 
 ## Contacts and social networks
 <p align="left">
